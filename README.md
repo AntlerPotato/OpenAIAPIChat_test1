@@ -8,8 +8,11 @@ This project uses Python and the OpenAI API to develop a simple AI question-answ
 
 
 **Version 1.0.1** - UI interface, one-time full output, no Markdown rendering
+
 **Version 1.0.2** - UI interface, streaming output, no Markdown rendering
+
 **Version 1.0.3** - UI interface, streaming/non-streaming output (selectable), independent context dialogue, clearable conversation history, no Markdown rendering
+
 **Version 1.0.4** - UI interface, streaming/non-streaming output (selectable), continuous context dialogue, clearable conversation history, no Markdown rendering
 **Version 1.0.5** - UI interface, streaming/non-streaming output (selectable), independent/continuous context dialogue (selectable), clearable conversation history, no Markdown rendering
 **Version 1.0.6** - UI interface, streaming/non-streaming output (selectable), independent/continuous context dialogue (selectable), clearable conversation history, improved window display, no Markdown rendering
